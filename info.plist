@@ -5,7 +5,7 @@
 	<key>bundleid</key>
 	<string>zbrl.templatefile</string>
 	<key>category</key>
-	<string>zbrl</string>
+	<string>Shortcuts</string>
 	<key>connections</key>
 	<dict>
 		<key>093FE916-4898-46C0-B1C9-32A18001F9DA</key>
@@ -26,6 +26,19 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>FD9934CE-D26E-47A0-9DA9-8B9F69846FE1</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>0DBDF9E7-129F-4836-A4EA-6EB1DE8D83D7</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E5739AD3-F3BB-4A9F-BF2C-E51DE9A69DA6</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -59,6 +72,69 @@
 				<false/>
 			</dict>
 		</array>
+		<key>1FEF6653-D705-4FD1-9140-BE174AFB3253</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>671E7B36-4ADA-4957-B6EE-3ABA7BD51F52</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>C769DC1C-073B-478E-B82C-F2554B02199B</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>0B904FB6-EB01-43E8-B3E5-72CD1053733A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>26ED350B-9FED-40A2-9780-D267C3D34430</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>1FEF6653-D705-4FD1-9140-BE174AFB3253</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>3246D83B-C223-4777-AE11-96ACFC9005C8</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>415988B5-0EA8-4E4C-BF19-BD4A1B4A6B4A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>C769DC1C-073B-478E-B82C-F2554B02199B</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>4C76C9EC-8456-4C54-AE5A-5C83A435F95E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>32B5759E-E2A8-4467-B3B8-E88377F1E873</key>
 		<array>
 			<dict>
@@ -77,6 +153,19 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>04730467-0571-44A0-8057-AC3B277C440A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>415988B5-0EA8-4E4C-BF19-BD4A1B4A6B4A</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>0DBDF9E7-129F-4836-A4EA-6EB1DE8D83D7</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -114,7 +203,7 @@
 			</dict>
 			<dict>
 				<key>destinationuid</key>
-				<string>A5A7C323-0549-484D-B1C5-0EA060552245</string>
+				<string>B5957168-E696-4CCD-9294-A2CE687C98BC</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -153,7 +242,7 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>0B904FB6-EB01-43E8-B3E5-72CD1053733A</string>
+				<string>26ED350B-9FED-40A2-9780-D267C3D34430</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -227,6 +316,46 @@
 				<false/>
 			</dict>
 		</array>
+		<key>B5957168-E696-4CCD-9294-A2CE687C98BC</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>BE70A196-BB36-4AA5-8F1E-7B9A4107AB63</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>BE70A196-BB36-4AA5-8F1E-7B9A4107AB63</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>D0DD0197-7CBB-4096-9F94-E64C9A78DABA</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>13038631-48EC-4C8D-AD47-01AC50E11F1B</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>A5A7C323-0549-484D-B1C5-0EA060552245</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>B6063FEE-2CC1-409A-A134-B01F31949C7C</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>CE282E36-5078-4A8D-909B-DD38E7209E47</key>
 		<array>
 			<dict>
@@ -244,7 +373,7 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>4C76C9EC-8456-4C54-AE5A-5C83A435F95E</string>
+				<string>3246D83B-C223-4777-AE11-96ACFC9005C8</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -258,6 +387,19 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>CE282E36-5078-4A8D-909B-DD38E7209E47</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>E5739AD3-F3BB-4A9F-BF2C-E51DE9A69DA6</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>4C76C9EC-8456-4C54-AE5A-5C83A435F95E</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -319,6 +461,27 @@
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>opentf</string>
+				<key>subtext</key>
+				<string>Initialize or open the template directory</string>
+				<key>text</key>
+				<string>Directory of Template File</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>E6A15F5E-2BC2-4386-BC81-F8309A1FE558</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>lastpathcomponent</key>
 				<false/>
 				<key>onlyshowifquerypopulated</key>
@@ -366,27 +529,6 @@ open "{query}"</string>
 			<string>3F07D7D0-4BAC-4575-99CE-91738F7B85AF</string>
 			<key>version</key>
 			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>2</integer>
-				<key>keyword</key>
-				<string>opentf</string>
-				<key>subtext</key>
-				<string>Initialize or open the template directory</string>
-				<key>text</key>
-				<string>Directory of Template File</string>
-				<key>withspace</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>E6A15F5E-2BC2-4386-BC81-F8309A1FE558</string>
-			<key>version</key>
-			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -446,72 +588,6 @@ open "{query}"</string>
 			<string>alfred.workflow.output.notification</string>
 			<key>uid</key>
 			<string>976C58B9-7A15-461E-B5D5-1E875877EF96</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>subtext</key>
-				<string>No suffix required</string>
-				<key>text</key>
-				<string>Rename it</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>6FAC6CBD-B1B4-46F3-9FBB-83CD211E4F09</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>concurrently</key>
-				<false/>
-				<key>escaping</key>
-				<integer>102</integer>
-				<key>script</key>
-				<string>if test -d "${in_path}"
-then
-    echo '1'
-else
-    echo '0'
-fi</string>
-				<key>scriptargtype</key>
-				<integer>1</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>type</key>
-				<integer>0</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.script</string>
-			<key>uid</key>
-			<string>9F243C54-659B-4D2C-B565-3F604ED599AE</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>applescript</key>
-				<string>on alfred_script(q)
-	tell application "Finder"
-		set pathList to (POSIX path of (folder of the front window as alias))
-	end tell
-end alfred_script</string>
-				<key>cachescript</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.applescript</string>
-			<key>uid</key>
-			<string>D494C07A-B36C-41B9-B790-5F8A1967A204</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -598,6 +674,72 @@ end alfred_script</string>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>subtext</key>
+				<string>No suffix required</string>
+				<key>text</key>
+				<string>Rename it</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>6FAC6CBD-B1B4-46F3-9FBB-83CD211E4F09</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>if test -d "${in_path}"
+then
+    echo '1'
+else
+    echo '0'
+fi</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>9F243C54-659B-4D2C-B565-3F604ED599AE</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>applescript</key>
+				<string>on alfred_script(q)
+	tell application "Finder"
+		set pathList to (POSIX path of (folder of the front window as alias))
+	end tell
+end alfred_script</string>
+				<key>cachescript</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.applescript</string>
+			<key>uid</key>
+			<string>D494C07A-B36C-41B9-B790-5F8A1967A204</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>conditions</key>
 				<array>
 					<dict>
@@ -608,7 +750,7 @@ end alfred_script</string>
 						<key>matchmode</key>
 						<integer>6</integer>
 						<key>matchstring</key>
-						<string>1</string>
+						<string></string>
 						<key>outputlabel</key>
 						<string>file</string>
 						<key>uid</key>
@@ -656,16 +798,14 @@ end alfred_script</string>
 				<false/>
 				<key>variables</key>
 				<dict>
-					<key>filename</key>
+					<key>in_path</key>
 					<string>{query}</string>
-					<key>src_dir</key>
-					<string>{const:alfred_workflow_data}</string>
 				</dict>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.utility.argument</string>
 			<key>uid</key>
-			<string>9B4D8C20-4C95-4525-9147-3FF396931667</string>
+			<string>712072D2-3D01-4907-93F7-D8F78347F18D</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -678,14 +818,16 @@ end alfred_script</string>
 				<false/>
 				<key>variables</key>
 				<dict>
-					<key>in_path</key>
+					<key>filename</key>
 					<string>{query}</string>
+					<key>src_dir</key>
+					<string>{const:alfred_workflow_data}</string>
 				</dict>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.utility.argument</string>
 			<key>uid</key>
-			<string>712072D2-3D01-4907-93F7-D8F78347F18D</string>
+			<string>9B4D8C20-4C95-4525-9147-3FF396931667</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -715,6 +857,120 @@ end alfred_script</string>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>Filename can not only consits of whitespaces or dots</string>
+				<key>title</key>
+				<string>Filename empty</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>671E7B36-4ADA-4957-B6EE-3ABA7BD51F52</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>script</key>
+				<string>query=$1
+
+echo $query</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>Select a template file...</string>
+				<key>type</key>
+				<integer>5</integer>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>415988B5-0EA8-4E4C-BF19-BD4A1B4A6B4A</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>sh ./new_file.sh</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>E5739AD3-F3BB-4A9F-BF2C-E51DE9A69DA6</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>keyword</key>
+				<string>new</string>
+				<key>subtext</key>
+				<string>with extension for file, without for dir or basename file</string>
+				<key>text</key>
+				<string>New file or dir</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>87F207A4-8A75-4E86-A991-7E6CF1C5567E</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>concurrently</key>
 				<false/>
 				<key>escaping</key>
@@ -734,25 +990,6 @@ end alfred_script</string>
 			<string>D0DD0197-7CBB-4096-9F94-E64C9A78DABA</string>
 			<key>version</key>
 			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>applescript</key>
-				<string>on alfred_script(q)
-	tell application "Finder"
-		set pathList to (POSIX path of (folder of the front window as alias))
-	end tell
-end alfred_script</string>
-				<key>cachescript</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.applescript</string>
-			<key>uid</key>
-			<string>FD9934CE-D26E-47A0-9DA9-8B9F69846FE1</string>
-			<key>version</key>
-			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -784,42 +1021,116 @@ fi</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>lastpathcomponent</key>
+				<key>applescript</key>
+				<string>on alfred_script(q)
+	tell application "Finder"
+		set pathList to (POSIX path of (folder of the front window as alias))
+	end tell
+end alfred_script</string>
+				<key>cachescript</key>
 				<false/>
-				<key>onlyshowifquerypopulated</key>
-				<false/>
-				<key>removeextension</key>
-				<false/>
-				<key>text</key>
-				<string></string>
-				<key>title</key>
-				<string></string>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.output.notification</string>
+			<string>alfred.workflow.action.applescript</string>
 			<key>uid</key>
-			<string>4C76C9EC-8456-4C54-AE5A-5C83A435F95E</string>
+			<string>FD9934CE-D26E-47A0-9DA9-8B9F69846FE1</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>keyword</key>
-				<string>new</string>
-				<key>subtext</key>
-				<string>with extension for file, without for dir</string>
-				<key>text</key>
-				<string>New file or dir</string>
-				<key>withspace</key>
-				<true/>
+				<key>argument</key>
+				<string></string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>template</key>
+					<string>{query}</string>
+				</dict>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
+			<string>alfred.workflow.utility.argument</string>
 			<key>uid</key>
-			<string>87F207A4-8A75-4E86-A991-7E6CF1C5567E</string>
+			<string>0DBDF9E7-129F-4836-A4EA-6EB1DE8D83D7</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string></string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>4</integer>
+						<key>matchstring</key>
+						<string>^\.+$|^$</string>
+						<key>outputlabel</key>
+						<string>invalid filename</string>
+						<key>uid</key>
+						<string>C769DC1C-073B-478E-B82C-F2554B02199B</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>else</string>
+				<key>hideelse</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>1FEF6653-D705-4FD1-9140-BE174AFB3253</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string></string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>4</integer>
+						<key>matchstring</key>
+						<string>\{"items": \[</string>
+						<key>outputlabel</key>
+						<string>multiple template files</string>
+						<key>uid</key>
+						<string>C769DC1C-073B-478E-B82C-F2554B02199B</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>else</string>
+				<key>hideelse</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>3246D83B-C223-4777-AE11-96ACFC9005C8</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.transform</string>
+			<key>uid</key>
+			<string>26ED350B-9FED-40A2-9780-D267C3D34430</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -859,6 +1170,28 @@ fi</string>
 			<key>config</key>
 			<dict>
 				<key>argument</key>
+				<string>{const:alfred_workflow_data}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>out_dir</key>
+					<string>{query}</string>
+					<key>src_dir</key>
+					<string>{const:alfred_workflow_data}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>EA31732A-8775-4A2B-A9E0-F00A76F4F9FC</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
 				<string></string>
 				<key>passthroughargument</key>
 				<false/>
@@ -878,22 +1211,96 @@ fi</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>argument</key>
-				<string>{const:alfred_workflow_data}</string>
-				<key>passthroughargument</key>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>fixedorder</key>
+				<true/>
+				<key>items</key>
+				<string>[{"title":"Crate a directory","arg":"dir","subtitle":"Creates directory '{var:out_dir}{var:filename}'"},{"title":"Create a file without an extension or a dotfile","arg":"basename","subtitle":"Creates '{var:filename}' in '{var:out_dir}'"}]</string>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>What should be created?</string>
+				<key>withspace</key>
 				<false/>
-				<key>variables</key>
-				<dict>
-					<key>out_dir</key>
-					<string>{query}</string>
-					<key>src_dir</key>
-					<string>{const:alfred_workflow_data}</string>
-				</dict>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.utility.argument</string>
+			<string>alfred.workflow.input.listfilter</string>
 			<key>uid</key>
-			<string>EA31732A-8775-4A2B-A9E0-F00A76F4F9FC</string>
+			<string>B5957168-E696-4CCD-9294-A2CE687C98BC</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string></string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>basename</string>
+						<key>outputlabel</key>
+						<string>basename</string>
+						<key>uid</key>
+						<string>13038631-48EC-4C8D-AD47-01AC50E11F1B</string>
+					</dict>
+					<dict>
+						<key>inputstring</key>
+						<string></string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>dir</string>
+						<key>outputlabel</key>
+						<string>dir</string>
+						<key>uid</key>
+						<string>B6063FEE-2CC1-409A-A134-B01F31949C7C</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string></string>
+				<key>hideelse</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>BE70A196-BB36-4AA5-8F1E-7B9A4107AB63</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string></string>
+				<key>title</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>4C76C9EC-8456-4C54-AE5A-5C83A435F95E</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -935,16 +1342,23 @@ fi</string>
 		<key>093FE916-4898-46C0-B1C9-32A18001F9DA</key>
 		<dict>
 			<key>xpos</key>
-			<real>855</real>
+			<real>905</real>
 			<key>ypos</key>
 			<real>1225</real>
 		</dict>
 		<key>0B904FB6-EB01-43E8-B3E5-72CD1053733A</key>
 		<dict>
 			<key>xpos</key>
-			<real>365</real>
+			<real>585</real>
 			<key>ypos</key>
 			<real>1255</real>
+		</dict>
+		<key>0DBDF9E7-129F-4836-A4EA-6EB1DE8D83D7</key>
+		<dict>
+			<key>xpos</key>
+			<real>2045</real>
+			<key>ypos</key>
+			<real>1225</real>
 		</dict>
 		<key>143A6F3B-C101-4A82-AF78-93D787360245</key>
 		<dict>
@@ -952,6 +1366,27 @@ fi</string>
 			<real>1075</real>
 			<key>ypos</key>
 			<real>720</real>
+		</dict>
+		<key>1FEF6653-D705-4FD1-9140-BE174AFB3253</key>
+		<dict>
+			<key>xpos</key>
+			<real>435</real>
+			<key>ypos</key>
+			<real>1230</real>
+		</dict>
+		<key>26ED350B-9FED-40A2-9780-D267C3D34430</key>
+		<dict>
+			<key>xpos</key>
+			<real>365</real>
+			<key>ypos</key>
+			<real>1240</real>
+		</dict>
+		<key>3246D83B-C223-4777-AE11-96ACFC9005C8</key>
+		<dict>
+			<key>xpos</key>
+			<real>1590</real>
+			<key>ypos</key>
+			<real>1230</real>
 		</dict>
 		<key>32B5759E-E2A8-4467-B3B8-E88377F1E873</key>
 		<dict>
@@ -967,6 +1402,13 @@ fi</string>
 			<key>ypos</key>
 			<real>280</real>
 		</dict>
+		<key>415988B5-0EA8-4E4C-BF19-BD4A1B4A6B4A</key>
+		<dict>
+			<key>xpos</key>
+			<real>1885</real>
+			<key>ypos</key>
+			<real>1195</real>
+		</dict>
 		<key>474E28D4-4F8F-4685-AB24-9D850D4A3D2A</key>
 		<dict>
 			<key>xpos</key>
@@ -977,9 +1419,16 @@ fi</string>
 		<key>4C76C9EC-8456-4C54-AE5A-5C83A435F95E</key>
 		<dict>
 			<key>xpos</key>
-			<real>1360</real>
+			<real>2295</real>
 			<key>ypos</key>
-			<real>1225</real>
+			<real>1350</real>
+		</dict>
+		<key>671E7B36-4ADA-4957-B6EE-3ABA7BD51F52</key>
+		<dict>
+			<key>xpos</key>
+			<real>655</real>
+			<key>ypos</key>
+			<real>1090</real>
 		</dict>
 		<key>6B7CB7E9-F331-450D-87CA-81D99C621C7E</key>
 		<dict>
@@ -1007,7 +1456,7 @@ fi</string>
 			<key>xpos</key>
 			<real>220</real>
 			<key>ypos</key>
-			<real>1225</real>
+			<real>1210</real>
 		</dict>
 		<key>9751D185-092A-424D-83DC-52BCCB1CB4B6</key>
 		<dict>
@@ -1019,7 +1468,7 @@ fi</string>
 		<key>976C58B9-7A15-461E-B5D5-1E875877EF96</key>
 		<dict>
 			<key>xpos</key>
-			<real>1360</real>
+			<real>1345</real>
 			<key>ypos</key>
 			<real>695</real>
 		</dict>
@@ -1047,9 +1496,23 @@ fi</string>
 		<key>A5A7C323-0549-484D-B1C5-0EA060552245</key>
 		<dict>
 			<key>xpos</key>
-			<real>1155</real>
+			<real>1435</real>
 			<key>ypos</key>
-			<real>1325</real>
+			<real>1350</real>
+		</dict>
+		<key>B5957168-E696-4CCD-9294-A2CE687C98BC</key>
+		<dict>
+			<key>xpos</key>
+			<real>1160</real>
+			<key>ypos</key>
+			<real>1275</real>
+		</dict>
+		<key>BE70A196-BB36-4AA5-8F1E-7B9A4107AB63</key>
+		<dict>
+			<key>xpos</key>
+			<real>1315</real>
+			<key>ypos</key>
+			<real>1295</real>
 		</dict>
 		<key>CE282E36-5078-4A8D-909B-DD38E7209E47</key>
 		<dict>
@@ -1061,9 +1524,9 @@ fi</string>
 		<key>D0DD0197-7CBB-4096-9F94-E64C9A78DABA</key>
 		<dict>
 			<key>xpos</key>
-			<real>1160</real>
+			<real>1435</real>
 			<key>ypos</key>
-			<real>1125</real>
+			<real>1210</real>
 		</dict>
 		<key>D494C07A-B36C-41B9-B790-5F8A1967A204</key>
 		<dict>
@@ -1071,6 +1534,13 @@ fi</string>
 			<real>435</real>
 			<key>ypos</key>
 			<real>700</real>
+		</dict>
+		<key>E5739AD3-F3BB-4A9F-BF2C-E51DE9A69DA6</key>
+		<dict>
+			<key>xpos</key>
+			<real>2105</real>
+			<key>ypos</key>
+			<real>1195</real>
 		</dict>
 		<key>E6A15F5E-2BC2-4386-BC81-F8309A1FE558</key>
 		<dict>
@@ -1082,14 +1552,14 @@ fi</string>
 		<key>EA31732A-8775-4A2B-A9E0-F00A76F4F9FC</key>
 		<dict>
 			<key>xpos</key>
-			<real>690</real>
+			<real>805</real>
 			<key>ypos</key>
 			<real>1255</real>
 		</dict>
 		<key>FD9934CE-D26E-47A0-9DA9-8B9F69846FE1</key>
 		<dict>
 			<key>xpos</key>
-			<real>435</real>
+			<real>655</real>
 			<key>ypos</key>
 			<real>1225</real>
 		</dict>
@@ -1099,14 +1569,14 @@ fi</string>
 	<key>variables</key>
 	<dict>
 		<key>path</key>
-		<string>/Users/zzhang/Nutstore/我的坚果云/效率工具/template_file</string>
+		<string></string>
 	</dict>
 	<key>variablesdontexport</key>
 	<array>
 		<string>path</string>
 	</array>
 	<key>version</key>
-	<string>1.1.1</string>
+	<string>1.2.0</string>
 	<key>webaddress</key>
 	<string>https://github.com/zzhanghub/alfred-template-file</string>
 </dict>
