@@ -1,6 +1,6 @@
 #!/bin/bash 
 #######################################
-# New dir in the active finder window 
+# New file in the active finder window 
 # author  :  zbrl
 # site    :  zhaozhang.net
 #######################################
